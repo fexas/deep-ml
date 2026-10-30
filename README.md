@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 22 problems · 0 labs · 10 math
+**33** solved · 23 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-29 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-29 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-30 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-30 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-29 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-29 | [solution](problems/0009-matrix-times-matrix) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-20 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
