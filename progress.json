@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:01:04.837Z",
+  "generated_at": "2026-10-31T14:23:45.928Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -546,6 +546,19 @@
       "last_pushed_at": "2026-10-31T09:01:03.617Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:314": {
+      "kind": "problem",
+      "id": "314",
+      "title": "Lagrange Multipliers for Constrained Quadratic Optimization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/314",
+      "path": "problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization",
+      "first_solved_at": "2026-10-31T14:23:45.006Z",
+      "last_pushed_at": "2026-10-31T14:23:45.006Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
