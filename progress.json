@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:54:10.231Z",
+  "generated_at": "2026-10-31T07:39:55.714Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -472,6 +472,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-10-31T02:54:08.679Z",
       "last_pushed_at": "2026-10-31T02:54:08.679Z"
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-10-31T07:39:54.360Z",
+      "last_pushed_at": "2026-10-31T07:39:54.360Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
