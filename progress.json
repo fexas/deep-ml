@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T08:33:19.201Z",
+  "generated_at": "2026-10-31T09:01:04.837Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -533,6 +533,19 @@
       "last_pushed_at": "2026-10-31T08:33:18.026Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:332": {
+      "kind": "problem",
+      "id": "332",
+      "title": "Check if Matrix is Positive Definite",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/332",
+      "path": "problems/0332-check-if-matrix-is-positive-definite",
+      "first_solved_at": "2026-10-31T09:01:03.617Z",
+      "last_pushed_at": "2026-10-31T09:01:03.617Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }
