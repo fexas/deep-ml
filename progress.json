@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T01:44:53.171Z",
+  "generated_at": "2026-11-01T01:57:47.235Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -614,6 +614,17 @@
       "path": "math/0080-loocv-vs-k-fold-the-bias-variance-of-k",
       "first_solved_at": "2026-11-01T01:44:52.040Z",
       "last_pushed_at": "2026-11-01T01:44:52.040Z"
+    },
+    "math:109": {
+      "kind": "math",
+      "id": "109",
+      "title": "What Goes Wrong in High Dimensions",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/109",
+      "path": "math/0109-what-goes-wrong-in-high-dimensions",
+      "first_solved_at": "2026-11-01T01:57:46.060Z",
+      "last_pushed_at": "2026-11-01T01:57:46.060Z"
     }
   }
 }
