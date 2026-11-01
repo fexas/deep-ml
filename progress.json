@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:34:26.757Z",
+  "generated_at": "2026-11-01T02:43:31.801Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -647,6 +647,17 @@
       "path": "math/0118-interpolation-and-double-descent",
       "first_solved_at": "2026-11-01T02:34:24.847Z",
       "last_pushed_at": "2026-11-01T02:34:24.847Z"
+    },
+    "math:94": {
+      "kind": "math",
+      "id": "94",
+      "title": "Ridge vs Lasso: Constraint Geometry and Soft-Thresholding",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/94",
+      "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
+      "first_solved_at": "2026-11-01T02:43:28.832Z",
+      "last_pushed_at": "2026-11-01T02:43:28.832Z"
     }
   }
 }
