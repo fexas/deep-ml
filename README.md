@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**58** solved · 35 problems · 0 labs · 23 math
+**59** solved · 36 problems · 0 labs · 23 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-30 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-29 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-29 | [solution](problems/0009-matrix-times-matrix) |
+| [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-11-01 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-20 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-30 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-29 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
