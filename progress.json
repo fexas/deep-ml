@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T01:57:47.235Z",
+  "generated_at": "2026-11-01T02:18:22.301Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -625,6 +625,17 @@
       "path": "math/0109-what-goes-wrong-in-high-dimensions",
       "first_solved_at": "2026-11-01T01:57:46.060Z",
       "last_pushed_at": "2026-11-01T01:57:46.060Z"
+    },
+    "math:107": {
+      "kind": "math",
+      "id": "107",
+      "title": "Best Subset and Stepwise Selection",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/107",
+      "path": "math/0107-best-subset-and-stepwise-selection",
+      "first_solved_at": "2026-11-01T02:18:20.323Z",
+      "last_pushed_at": "2026-11-01T02:18:20.323Z"
     }
   }
 }

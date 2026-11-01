@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 32 problems · 0 labs · 19 math
+**52** solved · 32 problems · 0 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-28 | [solution](math/0007-vector-operations) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-29 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [$C_p$, AIC, BIC, and Adjusted $R^2$](https://www.deep-ml.com/math-problems/93) | medium | 2026-11-01 | [solution](math/0093-c-p-aic-bic-and-adjusted-r-2) |
+| [Best Subset and Stepwise Selection](https://www.deep-ml.com/math-problems/107) | medium | 2026-11-01 | [solution](math/0107-best-subset-and-stepwise-selection) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-11-01 | [solution](math/0039-bias-variance-decomposition) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-29 | [solution](math/0012-inverse-and-rank) |
 | [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-11-01 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
