@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:18:22.301Z",
+  "generated_at": "2026-11-01T02:34:26.757Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -636,6 +636,17 @@
       "path": "math/0107-best-subset-and-stepwise-selection",
       "first_solved_at": "2026-11-01T02:18:20.323Z",
       "last_pushed_at": "2026-11-01T02:18:20.323Z"
+    },
+    "math:118": {
+      "kind": "math",
+      "id": "118",
+      "title": "Interpolation and Double Descent",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/118",
+      "path": "math/0118-interpolation-and-double-descent",
+      "first_solved_at": "2026-11-01T02:34:24.847Z",
+      "last_pushed_at": "2026-11-01T02:34:24.847Z"
     }
   }
 }
