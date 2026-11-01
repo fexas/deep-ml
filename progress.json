@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:09:00.918Z",
+  "generated_at": "2026-11-01T14:22:17.461Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -767,6 +767,19 @@
       "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
       "first_solved_at": "2026-11-01T14:08:59.986Z",
       "last_pushed_at": "2026-11-01T14:08:59.986Z"
+    },
+    "problem:342": {
+      "kind": "problem",
+      "id": "342",
+      "title": "Demonstrate Law of Large Numbers with Sampling",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/342",
+      "path": "problems/0342-demonstrate-law-of-large-numbers-with-sampling",
+      "first_solved_at": "2026-11-01T14:22:16.428Z",
+      "last_pushed_at": "2026-11-01T14:22:16.428Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
