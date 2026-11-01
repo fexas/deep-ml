@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:44:53.458Z",
+  "generated_at": "2026-11-01T14:02:49.744Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -745,6 +745,17 @@
       "last_pushed_at": "2026-11-01T13:44:52.761Z",
       "language": "python",
       "lines": 18
+    },
+    "math:23": {
+      "kind": "math",
+      "id": "23",
+      "title": "Law of Large Numbers and Central Limit Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/23",
+      "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
+      "first_solved_at": "2026-11-01T14:02:48.989Z",
+      "last_pushed_at": "2026-11-01T14:02:48.989Z"
     }
   }
 }
