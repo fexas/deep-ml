@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:02:49.744Z",
+  "generated_at": "2026-11-01T14:09:00.918Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -756,6 +756,17 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-11-01T14:02:48.989Z",
       "last_pushed_at": "2026-11-01T14:02:48.989Z"
+    },
+    "math:73": {
+      "kind": "math",
+      "id": "73",
+      "title": "Standard Error and the Sampling Distribution of an Estimator",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/73",
+      "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
+      "first_solved_at": "2026-11-01T14:08:59.986Z",
+      "last_pushed_at": "2026-11-01T14:08:59.986Z"
     }
   }
 }
