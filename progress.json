@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T01:11:57.649Z",
+  "generated_at": "2026-11-01T01:35:49.162Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -592,6 +592,17 @@
       "path": "math/0043-model-selection-cv-aic-and-bic",
       "first_solved_at": "2026-11-01T01:11:56.501Z",
       "last_pushed_at": "2026-11-01T01:11:56.501Z"
+    },
+    "math:93": {
+      "kind": "math",
+      "id": "93",
+      "title": "$C_p$, AIC, BIC, and Adjusted $R^2$",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/93",
+      "path": "math/0093-c-p-aic-bic-and-adjusted-r-2",
+      "first_solved_at": "2026-11-01T01:35:48.459Z",
+      "last_pushed_at": "2026-11-01T01:35:48.459Z"
     }
   }
 }
