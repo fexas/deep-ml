@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:35:28.741Z",
+  "generated_at": "2026-11-02T10:13:05.135Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -865,6 +865,19 @@
       "last_pushed_at": "2026-11-02T09:35:28.044Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:206": {
+      "kind": "problem",
+      "id": "206",
+      "title": "Variational Inference: ELBO Computation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/206",
+      "path": "problems/0206-variational-inference-elbo-computation",
+      "first_solved_at": "2026-11-02T10:13:04.455Z",
+      "last_pushed_at": "2026-11-02T10:13:04.455Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
