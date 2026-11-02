@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:04:55.012Z",
+  "generated_at": "2026-11-02T09:16:23.304Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -839,6 +839,19 @@
       "path": "math/0136-elbo-decomposition-with-gaussian-kl",
       "first_solved_at": "2026-11-02T09:04:53.913Z",
       "last_pushed_at": "2026-11-02T09:04:53.913Z"
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-11-02T09:16:22.234Z",
+      "last_pushed_at": "2026-11-02T09:16:22.234Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
