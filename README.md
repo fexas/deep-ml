@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 45 problems · 0 labs · 30 math
+**76** solved · 46 problems · 0 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-10-31 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-10-30 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-11-01 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
+| [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-11-02 | [solution](problems/0205-entropy-cross-entropy) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-29 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-30 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-30 | [solution](problems/0192-implement-the-huber-loss-function) |
