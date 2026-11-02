@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 40 problems · 0 labs · 27 math
+**68** solved · 40 problems · 0 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -81,6 +81,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-31 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [What Goes Wrong in High Dimensions](https://www.deep-ml.com/math-problems/109) | medium | 2026-11-01 | [solution](math/0109-what-goes-wrong-in-high-dimensions) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-11-01 | [solution](math/0118-interpolation-and-double-descent) |
+| [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-11-02 | [solution](math/0025-kl-divergence) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-29 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-11-01 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-11-01 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |

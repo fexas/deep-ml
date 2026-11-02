@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T03:10:45.175Z",
+  "generated_at": "2026-11-02T03:15:08.026Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -817,6 +817,17 @@
       "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
       "first_solved_at": "2026-11-02T03:10:44.144Z",
       "last_pushed_at": "2026-11-02T03:10:44.144Z"
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-11-02T03:15:06.620Z",
+      "last_pushed_at": "2026-11-02T03:15:06.620Z"
     }
   }
 }
