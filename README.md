@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**74** solved · 45 problems · 0 labs · 29 math
+**75** solved · 45 problems · 0 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -73,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-11-01 | [solution](math/0039-bias-variance-decomposition) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-11-02 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [ELBO Decomposition with Gaussian KL](https://www.deep-ml.com/math-problems/136) | medium | 2026-11-02 | [solution](math/0136-elbo-decomposition-with-gaussian-kl) |
+| [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-11-02 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-29 | [solution](math/0012-inverse-and-rank) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-11-01 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-11-01 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
