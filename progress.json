@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T03:15:08.026Z",
+  "generated_at": "2026-11-02T09:04:55.012Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -828,6 +828,17 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-11-02T03:15:06.620Z",
       "last_pushed_at": "2026-11-02T03:15:06.620Z"
+    },
+    "math:136": {
+      "kind": "math",
+      "id": "136",
+      "title": "ELBO Decomposition with Gaussian KL",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/136",
+      "path": "math/0136-elbo-decomposition-with-gaussian-kl",
+      "first_solved_at": "2026-11-02T09:04:53.913Z",
+      "last_pushed_at": "2026-11-02T09:04:53.913Z"
     }
   }
 }
