@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:55:38.054Z",
+  "generated_at": "2026-11-05T03:56:18.749Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -972,6 +972,19 @@
       "path": "math/0397-risk-functions-of-estimators-mean-median-constant-and-shrinkage-bayes-risk-and-minimax",
       "first_solved_at": "2026-11-05T02:55:36.995Z",
       "last_pushed_at": "2026-11-05T02:55:36.995Z"
+    },
+    "problem:1761": {
+      "kind": "problem",
+      "id": "1761",
+      "title": "Risk Functions of Mean, Median and Shrinkage Estimators",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1761",
+      "path": "problems/1761-risk-functions-of-mean-median-and-shrinkage-estimators",
+      "first_solved_at": "2026-11-05T03:56:17.249Z",
+      "last_pushed_at": "2026-11-05T03:56:17.249Z",
+      "language": "python",
+      "lines": 90
     }
   }
 }
