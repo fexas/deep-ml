@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:25:34.568Z",
+  "generated_at": "2026-11-05T01:48:50.026Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -939,6 +939,17 @@
       "path": "math/0027-statistical-inference",
       "first_solved_at": "2026-11-03T02:25:33.210Z",
       "last_pushed_at": "2026-11-03T02:25:33.210Z"
+    },
+    "math:398": {
+      "kind": "math",
+      "id": "398",
+      "title": "A Finite-Class PAC Bound from Hoeffding and the Union Bound",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/398",
+      "path": "math/0398-a-finite-class-pac-bound-from-hoeffding-and-the-union-bound",
+      "first_solved_at": "2026-11-05T01:48:49.245Z",
+      "last_pushed_at": "2026-11-05T01:48:49.245Z"
     }
   }
 }
