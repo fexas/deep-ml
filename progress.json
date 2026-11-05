@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:48:50.026Z",
+  "generated_at": "2026-11-05T02:18:49.719Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -950,6 +950,17 @@
       "path": "math/0398-a-finite-class-pac-bound-from-hoeffding-and-the-union-bound",
       "first_solved_at": "2026-11-05T01:48:49.245Z",
       "last_pushed_at": "2026-11-05T01:48:49.245Z"
+    },
+    "math:390": {
+      "kind": "math",
+      "id": "390",
+      "title": "When a Biased Estimator Wins: MSE of the Shrunk Gaussian Mean",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/390",
+      "path": "math/0390-when-a-biased-estimator-wins-mse-of-the-shrunk-gaussian-mean",
+      "first_solved_at": "2026-11-05T02:18:48.953Z",
+      "last_pushed_at": "2026-11-05T02:18:48.953Z"
     }
   }
 }
