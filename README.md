@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 46 problems · 0 labs · 33 math
+**80** solved · 46 problems · 0 labs · 34 math
 
 ![Coverage](./coverage.svg)
 
@@ -96,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-29 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-11-01 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-11-01 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
+| [Risk Functions of Estimators: Mean, Median, Constant and Shrinkage; Bayes Risk and Minimax](https://www.deep-ml.com/math-problems/397) | hard | 2026-11-05 | [solution](math/0397-risk-functions-of-estimators-mean-median-constant-and-shrinkage-bayes-risk-and-minimax) |
 
 ---
 

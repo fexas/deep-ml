@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:18:49.719Z",
+  "generated_at": "2026-11-05T02:55:38.054Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -961,6 +961,17 @@
       "path": "math/0390-when-a-biased-estimator-wins-mse-of-the-shrunk-gaussian-mean",
       "first_solved_at": "2026-11-05T02:18:48.953Z",
       "last_pushed_at": "2026-11-05T02:18:48.953Z"
+    },
+    "math:397": {
+      "kind": "math",
+      "id": "397",
+      "title": "Risk Functions of Estimators: Mean, Median, Constant and Shrinkage; Bayes Risk and Minimax",
+      "difficulty": "hard",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/397",
+      "path": "math/0397-risk-functions-of-estimators-mean-median-constant-and-shrinkage-bayes-risk-and-minimax",
+      "first_solved_at": "2026-11-05T02:55:36.995Z",
+      "last_pushed_at": "2026-11-05T02:55:36.995Z"
     }
   }
 }
