@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 47 problems · 0 labs · 34 math
+**82** solved · 47 problems · 0 labs · 35 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-29 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-11-03 | [solution](math/0027-statistical-inference) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-10-30 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
+| [Type I and Type II Error, Power, and the Uniform Null](https://www.deep-ml.com/math-problems/83) | medium | 2026-11-05 | [solution](math/0083-type-i-and-type-ii-error-power-and-the-uniform-null) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-31 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [What Goes Wrong in High Dimensions](https://www.deep-ml.com/math-problems/109) | medium | 2026-11-01 | [solution](math/0109-what-goes-wrong-in-high-dimensions) |
 | [When a Biased Estimator Wins: MSE of the Shrunk Gaussian Mean](https://www.deep-ml.com/math-problems/390) | medium | 2026-11-05 | [solution](math/0390-when-a-biased-estimator-wins-mse-of-the-shrunk-gaussian-mean) |
