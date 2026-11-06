@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:06:26.581Z",
+  "generated_at": "2026-11-06T15:04:46.433Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -996,6 +996,17 @@
       "path": "math/0083-type-i-and-type-ii-error-power-and-the-uniform-null",
       "first_solved_at": "2026-11-05T14:06:20.068Z",
       "last_pushed_at": "2026-11-05T14:06:20.068Z"
+    },
+    "math:20": {
+      "kind": "math",
+      "id": "20",
+      "title": "Bayes' Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/20",
+      "path": "math/0020-bayes-theorem",
+      "first_solved_at": "2026-11-06T15:04:45.385Z",
+      "last_pushed_at": "2026-11-06T15:04:45.385Z"
     }
   }
 }

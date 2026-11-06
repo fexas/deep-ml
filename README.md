@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 47 problems · 0 labs · 35 math
+**83** solved · 47 problems · 0 labs · 36 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-29 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [$C_p$, AIC, BIC, and Adjusted $R^2$](https://www.deep-ml.com/math-problems/93) | medium | 2026-11-01 | [solution](math/0093-c-p-aic-bic-and-adjusted-r-2) |
 | [A Finite-Class PAC Bound from Hoeffding and the Union Bound](https://www.deep-ml.com/math-problems/398) | medium | 2026-11-05 | [solution](math/0398-a-finite-class-pac-bound-from-hoeffding-and-the-union-bound) |
+| [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-11-06 | [solution](math/0020-bayes-theorem) |
 | [Best Subset and Stepwise Selection](https://www.deep-ml.com/math-problems/107) | medium | 2026-11-01 | [solution](math/0107-best-subset-and-stepwise-selection) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-11-01 | [solution](math/0039-bias-variance-decomposition) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-11-02 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
