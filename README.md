@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**83** solved · 47 problems · 0 labs · 36 math
+**84** solved · 47 problems · 0 labs · 37 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Best Subset and Stepwise Selection](https://www.deep-ml.com/math-problems/107) | medium | 2026-11-01 | [solution](math/0107-best-subset-and-stepwise-selection) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-11-01 | [solution](math/0039-bias-variance-decomposition) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-11-02 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
+| [Differential Entropy: Negative Values, Quantization Bits and the Gaussian](https://www.deep-ml.com/math-problems/370) | medium | 2026-11-07 | [solution](math/0370-differential-entropy-negative-values-quantization-bits-and-the-gaussian) |
 | [ELBO Decomposition with Gaussian KL](https://www.deep-ml.com/math-problems/136) | medium | 2026-11-02 | [solution](math/0136-elbo-decomposition-with-gaussian-kl) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-11-02 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-29 | [solution](math/0012-inverse-and-rank) |

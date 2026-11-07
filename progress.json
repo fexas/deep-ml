@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:04:46.433Z",
+  "generated_at": "2026-11-07T06:01:02.944Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1007,6 +1007,17 @@
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-11-06T15:04:45.385Z",
       "last_pushed_at": "2026-11-06T15:04:45.385Z"
+    },
+    "math:370": {
+      "kind": "math",
+      "id": "370",
+      "title": "Differential Entropy: Negative Values, Quantization Bits and the Gaussian",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/370",
+      "path": "math/0370-differential-entropy-negative-values-quantization-bits-and-the-gaussian",
+      "first_solved_at": "2026-11-07T06:01:02.276Z",
+      "last_pushed_at": "2026-11-07T06:01:02.276Z"
     }
   }
 }
