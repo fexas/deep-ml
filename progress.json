@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:01:02.944Z",
+  "generated_at": "2026-11-07T06:43:02.875Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1018,6 +1018,17 @@
       "path": "math/0370-differential-entropy-negative-values-quantization-bits-and-the-gaussian",
       "first_solved_at": "2026-11-07T06:01:02.276Z",
       "last_pushed_at": "2026-11-07T06:01:02.276Z"
+    },
+    "math:373": {
+      "kind": "math",
+      "id": "373",
+      "title": "Mutual Information of a Bivariate Gaussian",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/373",
+      "path": "math/0373-mutual-information-of-a-bivariate-gaussian",
+      "first_solved_at": "2026-11-07T06:43:02.203Z",
+      "last_pushed_at": "2026-11-07T06:43:02.203Z"
     }
   }
 }
