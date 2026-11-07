@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:43:02.875Z",
+  "generated_at": "2026-11-07T09:17:31.414Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1029,6 +1029,19 @@
       "path": "math/0373-mutual-information-of-a-bivariate-gaussian",
       "first_solved_at": "2026-11-07T06:43:02.203Z",
       "last_pushed_at": "2026-11-07T06:43:02.203Z"
+    },
+    "problem:1734": {
+      "kind": "problem",
+      "id": "1734",
+      "title": "Continuous MI: Gaussian Closed Form vs Histogram Plug-in with Scott's Rule",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1734",
+      "path": "problems/1734-continuous-mi-gaussian-closed-form-vs-histogram-plug-in-with-scott-s-rule",
+      "first_solved_at": "2026-11-07T09:17:30.736Z",
+      "last_pushed_at": "2026-11-07T09:17:30.736Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
