@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:17:31.414Z",
+  "generated_at": "2026-11-08T02:43:11.502Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1042,6 +1042,17 @@
       "last_pushed_at": "2026-11-07T09:17:30.736Z",
       "language": "python",
       "lines": 64
+    },
+    "math:371": {
+      "kind": "math",
+      "id": "371",
+      "title": "The Information Inequality: Jensen's Proof, Extra Bits and the Uniform Maximum",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/371",
+      "path": "math/0371-the-information-inequality-jensen-s-proof-extra-bits-and-the-uniform-maximum",
+      "first_solved_at": "2026-11-08T02:43:10.452Z",
+      "last_pushed_at": "2026-11-08T02:43:10.452Z"
     }
   }
 }
