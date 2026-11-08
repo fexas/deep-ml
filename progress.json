@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:43:11.502Z",
+  "generated_at": "2026-11-08T03:05:08.014Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1053,6 +1053,17 @@
       "path": "math/0371-the-information-inequality-jensen-s-proof-extra-bits-and-the-uniform-maximum",
       "first_solved_at": "2026-11-08T02:43:10.452Z",
       "last_pushed_at": "2026-11-08T02:43:10.452Z"
+    },
+    "math:372": {
+      "kind": "math",
+      "id": "372",
+      "title": "Forward vs Reverse KL: M-Projection, I-Projection and Three Minima",
+      "difficulty": "hard",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/372",
+      "path": "math/0372-forward-vs-reverse-kl-m-projection-i-projection-and-three-minima",
+      "first_solved_at": "2026-11-08T03:05:07.318Z",
+      "last_pushed_at": "2026-11-08T03:05:07.318Z"
     }
   }
 }
