@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T03:05:08.014Z",
+  "generated_at": "2026-11-08T04:12:00.824Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1064,6 +1064,19 @@
       "path": "math/0372-forward-vs-reverse-kl-m-projection-i-projection-and-three-minima",
       "first_solved_at": "2026-11-08T03:05:07.318Z",
       "last_pushed_at": "2026-11-08T03:05:07.318Z"
+    },
+    "problem:1735": {
+      "kind": "problem",
+      "id": "1735",
+      "title": "Forward vs Reverse KL: Fit One Gaussian to a Bimodal Mixture",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/1735",
+      "path": "problems/1735-forward-vs-reverse-kl-fit-one-gaussian-to-a-bimodal-mixture",
+      "first_solved_at": "2026-11-08T04:12:00.162Z",
+      "last_pushed_at": "2026-11-08T04:12:00.162Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }
