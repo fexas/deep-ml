@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T04:12:00.824Z",
+  "generated_at": "2026-11-08T13:59:25.154Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1077,6 +1077,17 @@
       "last_pushed_at": "2026-11-08T04:12:00.162Z",
       "language": "python",
       "lines": 55
+    },
+    "math:374": {
+      "kind": "math",
+      "id": "374",
+      "title": "Data Processing, Sufficient Statistics and Fano's Lower Bound on Error",
+      "difficulty": "hard",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/374",
+      "path": "math/0374-data-processing-sufficient-statistics-and-fano-s-lower-bound-on-error",
+      "first_solved_at": "2026-11-08T13:59:23.786Z",
+      "last_pushed_at": "2026-11-08T13:59:23.786Z"
     }
   }
 }
