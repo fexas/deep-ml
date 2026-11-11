@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:59:25.154Z",
+  "generated_at": "2026-11-11T11:01:19.488Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1088,6 +1088,17 @@
       "path": "math/0374-data-processing-sufficient-statistics-and-fano-s-lower-bound-on-error",
       "first_solved_at": "2026-11-08T13:59:23.786Z",
       "last_pushed_at": "2026-11-08T13:59:23.786Z"
+    },
+    "math:156": {
+      "kind": "math",
+      "id": "156",
+      "title": "Least Squares as Maximum Likelihood under Gaussian Noise",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/156",
+      "path": "math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise",
+      "first_solved_at": "2026-11-11T11:01:18.691Z",
+      "last_pushed_at": "2026-11-11T11:01:18.691Z"
     }
   }
 }
