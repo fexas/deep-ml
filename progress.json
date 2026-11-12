@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:25:32.625Z",
+  "generated_at": "2026-11-12T13:52:26.326Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1260,6 +1260,19 @@
       "last_pushed_at": "2026-11-12T13:25:31.649Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:1718": {
+      "kind": "problem",
+      "id": "1718",
+      "title": "Monty Hall Posterior for n Doors and Two Host Models",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/1718",
+      "path": "problems/1718-monty-hall-posterior-for-n-doors-and-two-host-models",
+      "first_solved_at": "2026-11-12T13:52:23.985Z",
+      "last_pushed_at": "2026-11-12T13:52:23.985Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
