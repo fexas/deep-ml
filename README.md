@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**97** solved · 54 problems · 0 labs · 43 math
+**98** solved · 54 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -106,6 +106,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-31 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [What Goes Wrong in High Dimensions](https://www.deep-ml.com/math-problems/109) | medium | 2026-11-01 | [solution](math/0109-what-goes-wrong-in-high-dimensions) |
 | [When a Biased Estimator Wins: MSE of the Shrunk Gaussian Mean](https://www.deep-ml.com/math-problems/390) | medium | 2026-11-05 | [solution](math/0390-when-a-biased-estimator-wins-mse-of-the-shrunk-gaussian-mean) |
+| [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-11-12 | [solution](math/0028-bayesian-methods) |
 | [Data Processing, Sufficient Statistics and Fano's Lower Bound on Error](https://www.deep-ml.com/math-problems/374) | hard | 2026-11-08 | [solution](math/0374-data-processing-sufficient-statistics-and-fano-s-lower-bound-on-error) |
 | [Forward vs Reverse KL: M-Projection, I-Projection and Three Minima](https://www.deep-ml.com/math-problems/372) | hard | 2026-11-08 | [solution](math/0372-forward-vs-reverse-kl-m-projection-i-projection-and-three-minima) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-11-01 | [solution](math/0118-interpolation-and-double-descent) |
