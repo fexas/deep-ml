@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:55:10.294Z",
+  "generated_at": "2026-11-12T11:33:10.007Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1208,6 +1208,19 @@
       "path": "math/0356-monty-hall-by-bayes-rule-the-host-s-likelihood-decides",
       "first_solved_at": "2026-11-12T08:55:08.891Z",
       "last_pushed_at": "2026-11-12T08:55:08.891Z"
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-11-12T11:33:09.222Z",
+      "last_pushed_at": "2026-11-12T11:33:09.222Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
