@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 54 problems · 0 labs · 45 math
+**100** solved · 54 problems · 0 labs · 46 math
 
 ![Coverage](./coverage.svg)
 
@@ -93,6 +93,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Least Squares as Maximum Likelihood under Gaussian Noise](https://www.deep-ml.com/math-problems/156) | medium | 2026-11-11 | [solution](math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise) |
 | [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-11-01 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-28 | [solution](math/0010-matrix-multiplication) |
+| [Monty Hall by Bayes' Rule: The Host's Likelihood Decides](https://www.deep-ml.com/math-problems/356) | medium | 2026-11-12 | [solution](math/0356-monty-hall-by-bayes-rule-the-host-s-likelihood-decides) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-29 | [solution](math/0002-multivariate-calculus) |
 | [Mutual Information of a Bivariate Gaussian](https://www.deep-ml.com/math-problems/373) | medium | 2026-11-07 | [solution](math/0373-mutual-information-of-a-bivariate-gaussian) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-31 | [solution](math/0006-optimization-convexity-and-critical-points) |
