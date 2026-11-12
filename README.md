@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 55 problems · 0 labs · 46 math
+**102** solved · 56 problems · 0 labs · 46 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-10-31 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-10-31 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-10-31 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-11-12 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Continuous MI: Gaussian Closed Form vs Histogram Plug-in with Scott's Rule](https://www.deep-ml.com/problems/1734) | medium | 2026-11-07 | [solution](problems/1734-continuous-mi-gaussian-closed-form-vs-histogram-plug-in-with-scott-s-rule) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-10-30 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-11-01 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
