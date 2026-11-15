@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:07:45.741Z",
+  "generated_at": "2026-11-15T07:26:23.380Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1297,6 +1297,19 @@
       "last_pushed_at": "2026-11-15T07:07:45.088Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:1732": {
+      "kind": "problem",
+      "id": "1732",
+      "title": "Entropy Accounting for a Joint Table",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/1732",
+      "path": "problems/1732-entropy-accounting-for-a-joint-table",
+      "first_solved_at": "2026-11-15T07:26:22.619Z",
+      "last_pushed_at": "2026-11-15T07:26:22.619Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
