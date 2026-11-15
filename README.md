@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**108** solved · 61 problems · 0 labs · 47 math
+**109** solved · 62 problems · 0 labs · 47 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Demonstrate Law of Large Numbers with Sampling](https://www.deep-ml.com/problems/342) | easy | 2026-11-01 | [solution](problems/0342-demonstrate-law-of-large-numbers-with-sampling) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-29 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-10-30 | [solution](problems/0086-detect-overfitting-or-underfitting) |
+| [DNA Sequence Logo: Position Weight Matrix, Column Information and Consensus](https://www.deep-ml.com/problems/1733) | easy | 2026-11-15 | [solution](problems/1733-dna-sequence-logo-position-weight-matrix-column-information-and-consensus) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-28 | [solution](problems/0083-dot-product-calculator) |
 | [Entropy Accounting for a Joint Table](https://www.deep-ml.com/problems/1732) | easy | 2026-11-15 | [solution](problems/1732-entropy-accounting-for-a-joint-table) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-11-01 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
