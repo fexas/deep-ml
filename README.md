@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**113** solved · 63 problems · 0 labs · 50 math
+**114** solved · 64 problems · 0 labs · 50 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-20 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-20 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-28 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-11-15 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Reparameterization Trick and the VAE Prior KL](https://www.deep-ml.com/problems/1384) | easy | 2026-11-02 | [solution](problems/1384-reparameterization-trick-and-the-vae-prior-kl) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-11-01 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Smooth L1 Loss with a Beta Parameter](https://www.deep-ml.com/problems/1372) | easy | 2026-10-30 | [solution](problems/1372-smooth-l1-loss-with-a-beta-parameter) |
