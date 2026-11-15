@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:25:31.947Z",
+  "generated_at": "2026-11-15T13:34:40.156Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1345,6 +1345,17 @@
       "path": "math/0113-classification-trees-gini-entropy-and-information-gain",
       "first_solved_at": "2026-11-15T13:25:31.230Z",
       "last_pushed_at": "2026-11-15T13:25:31.230Z"
+    },
+    "math:150": {
+      "kind": "math",
+      "id": "150",
+      "title": "Regression Tree Splits as Variance Reduction",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/150",
+      "path": "math/0150-regression-tree-splits-as-variance-reduction",
+      "first_solved_at": "2026-11-15T13:34:39.493Z",
+      "last_pushed_at": "2026-11-15T13:34:39.493Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**111** solved · 62 problems · 0 labs · 49 math
+**112** solved · 62 problems · 0 labs · 50 math
 
 ![Coverage](./coverage.svg)
 
@@ -109,6 +109,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-31 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-29 | [solution](math/0014-orthogonality-and-projections) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-31 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
+| [Regression Tree Splits as Variance Reduction](https://www.deep-ml.com/math-problems/150) | medium | 2026-11-15 | [solution](math/0150-regression-tree-splits-as-variance-reduction) |
 | [Regression Trees and Recursive Binary Splitting](https://www.deep-ml.com/math-problems/112) | medium | 2026-11-15 | [solution](math/0112-regression-trees-and-recursive-binary-splitting) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-31 | [solution](math/0031-regularization-and-generalization) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-29 | [solution](math/0013-solving-linear-systems) |
