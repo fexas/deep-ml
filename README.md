@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**112** solved · 62 problems · 0 labs · 50 math
+**113** solved · 63 problems · 0 labs · 50 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy Accounting for a Joint Table](https://www.deep-ml.com/problems/1732) | easy | 2026-11-15 | [solution](problems/1732-entropy-accounting-for-a-joint-table) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-11-01 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-10-29 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-11-15 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-10-29 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-11-01 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-11-02 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
