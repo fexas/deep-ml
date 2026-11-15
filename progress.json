@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:52:26.326Z",
+  "generated_at": "2026-11-15T03:49:11.689Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1273,6 +1273,17 @@
       "last_pushed_at": "2026-11-12T13:52:23.985Z",
       "language": "python",
       "lines": 48
+    },
+    "math:369": {
+      "kind": "math",
+      "id": "369",
+      "title": "Joint and Conditional Entropy on the Even/Prime Numbers",
+      "difficulty": "easy",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/369",
+      "path": "math/0369-joint-and-conditional-entropy-on-the-even-prime-numbers",
+      "first_solved_at": "2026-11-15T03:49:10.952Z",
+      "last_pushed_at": "2026-11-15T03:49:10.952Z"
     }
   }
 }
