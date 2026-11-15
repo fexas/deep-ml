@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:22:52.996Z",
+  "generated_at": "2026-11-15T13:25:31.947Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1334,6 +1334,17 @@
       "path": "math/0112-regression-trees-and-recursive-binary-splitting",
       "first_solved_at": "2026-11-15T09:22:49.568Z",
       "last_pushed_at": "2026-11-15T09:22:49.568Z"
+    },
+    "math:113": {
+      "kind": "math",
+      "id": "113",
+      "title": "Classification Trees: Gini, Entropy and Information Gain",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/113",
+      "path": "math/0113-classification-trees-gini-entropy-and-information-gain",
+      "first_solved_at": "2026-11-15T13:25:31.230Z",
+      "last_pushed_at": "2026-11-15T13:25:31.230Z"
     }
   }
 }
