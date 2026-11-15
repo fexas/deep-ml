@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:06:28.926Z",
+  "generated_at": "2026-11-15T09:22:52.996Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1323,6 +1323,17 @@
       "last_pushed_at": "2026-11-15T08:06:27.494Z",
       "language": "python",
       "lines": 58
+    },
+    "math:112": {
+      "kind": "math",
+      "id": "112",
+      "title": "Regression Trees and Recursive Binary Splitting",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/112",
+      "path": "math/0112-regression-trees-and-recursive-binary-splitting",
+      "first_solved_at": "2026-11-15T09:22:49.568Z",
+      "last_pushed_at": "2026-11-15T09:22:49.568Z"
     }
   }
 }
