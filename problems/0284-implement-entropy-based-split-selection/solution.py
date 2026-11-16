@@ -63,7 +63,6 @@ def entropy_split_selection(X: np.ndarray, y: np.ndarray) -> tuple:
 
     for i in range(n_features):
         thre, info_gain = entropy_feature_split(X[:,i],y)
-
         if i == 0:
             best_threshold = thre
             best_info_gain = info_gain
