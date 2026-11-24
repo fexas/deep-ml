@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**117** solved · 67 problems · 0 labs · 50 math
+**118** solved · 67 problems · 0 labs · 51 math
 
 ![Coverage](./coverage.svg)
 
@@ -87,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Joint and Conditional Entropy on the Even/Prime Numbers](https://www.deep-ml.com/math-problems/369) | easy | 2026-11-15 | [solution](math/0369-joint-and-conditional-entropy-on-the-even-prime-numbers) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-28 | [solution](math/0009-matrix-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-11-01 | [solution](math/0043-model-selection-cv-aic-and-bic) |
+| [Multi-Armed Bandits: Regret and UCB](https://www.deep-ml.com/math-problems/61) | easy | 2026-11-24 | [solution](math/0061-multi-armed-bandits-regret-and-ucb) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-11-01 | [solution](math/0019-probability-fundamentals) |
 | [Standard Error and the Sampling Distribution of an Estimator](https://www.deep-ml.com/math-problems/73) | easy | 2026-11-01 | [solution](math/0073-standard-error-and-the-sampling-distribution-of-an-estimator) |
 | [The Categorical MLE by Lagrange Multipliers](https://www.deep-ml.com/math-problems/384) | easy | 2026-11-11 | [solution](math/0384-the-categorical-mle-by-lagrange-multipliers) |

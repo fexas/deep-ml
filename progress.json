@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:15:30.169Z",
+  "generated_at": "2026-11-24T23:29:14.102Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1421,6 +1421,17 @@
       "last_pushed_at": "2026-11-16T14:15:28.411Z",
       "language": "python",
       "lines": 152
+    },
+    "math:61": {
+      "kind": "math",
+      "id": "61",
+      "title": "Multi-Armed Bandits: Regret and UCB",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/61",
+      "path": "math/0061-multi-armed-bandits-regret-and-ucb",
+      "first_solved_at": "2026-11-24T23:29:13.642Z",
+      "last_pushed_at": "2026-11-24T23:29:13.642Z"
     }
   }
 }
