@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:56:59.551Z",
+  "generated_at": "2026-11-25T01:38:35.067Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1443,6 +1443,17 @@
       "path": "math/0218-sample-averages-vs-constant-step-size-recency-weighting",
       "first_solved_at": "2026-11-25T00:56:59.113Z",
       "last_pushed_at": "2026-11-25T00:56:59.113Z"
+    },
+    "math:219": {
+      "kind": "math",
+      "id": "219",
+      "title": "Gradient Bandits as Stochastic Gradient Ascent",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/219",
+      "path": "math/0219-gradient-bandits-as-stochastic-gradient-ascent",
+      "first_solved_at": "2026-11-25T01:38:34.532Z",
+      "last_pushed_at": "2026-11-25T01:38:34.532Z"
     }
   }
 }

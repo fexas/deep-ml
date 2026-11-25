@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**119** solved · 67 problems · 0 labs · 52 math
+**120** solved · 67 problems · 0 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -104,6 +104,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Credible Intervals vs Confidence Intervals](https://www.deep-ml.com/math-problems/89) | medium | 2026-11-12 | [solution](math/0089-credible-intervals-vs-confidence-intervals) |
 | [Differential Entropy: Negative Values, Quantization Bits and the Gaussian](https://www.deep-ml.com/math-problems/370) | medium | 2026-11-07 | [solution](math/0370-differential-entropy-negative-values-quantization-bits-and-the-gaussian) |
 | [ELBO Decomposition with Gaussian KL](https://www.deep-ml.com/math-problems/136) | medium | 2026-11-02 | [solution](math/0136-elbo-decomposition-with-gaussian-kl) |
+| [Gradient Bandits as Stochastic Gradient Ascent](https://www.deep-ml.com/math-problems/219) | medium | 2026-11-25 | [solution](math/0219-gradient-bandits-as-stochastic-gradient-ascent) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-11-02 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-29 | [solution](math/0012-inverse-and-rank) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-11-01 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
