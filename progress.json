@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:38:35.067Z",
+  "generated_at": "2026-11-25T03:15:39.763Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1454,6 +1454,17 @@
       "path": "math/0219-gradient-bandits-as-stochastic-gradient-ascent",
       "first_solved_at": "2026-11-25T01:38:34.532Z",
       "last_pushed_at": "2026-11-25T01:38:34.532Z"
+    },
+    "math:183": {
+      "kind": "math",
+      "id": "183",
+      "title": "Thompson Sampling: Beta-Bernoulli Posteriors and Exploration by Sampling",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/math-problems/183",
+      "path": "math/0183-thompson-sampling-beta-bernoulli-posteriors-and-exploration-by-sampling",
+      "first_solved_at": "2026-11-25T03:15:38.719Z",
+      "last_pushed_at": "2026-11-25T03:15:38.719Z"
     }
   }
 }
