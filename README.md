@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**118** solved · 67 problems · 0 labs · 51 math
+**119** solved · 67 problems · 0 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-11-01 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Multi-Armed Bandits: Regret and UCB](https://www.deep-ml.com/math-problems/61) | easy | 2026-11-24 | [solution](math/0061-multi-armed-bandits-regret-and-ucb) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-11-01 | [solution](math/0019-probability-fundamentals) |
+| [Sample Averages vs Constant Step Size: Recency Weighting](https://www.deep-ml.com/math-problems/218) | easy | 2026-11-25 | [solution](math/0218-sample-averages-vs-constant-step-size-recency-weighting) |
 | [Standard Error and the Sampling Distribution of an Estimator](https://www.deep-ml.com/math-problems/73) | easy | 2026-11-01 | [solution](math/0073-standard-error-and-the-sampling-distribution-of-an-estimator) |
 | [The Categorical MLE by Lagrange Multipliers](https://www.deep-ml.com/math-problems/384) | easy | 2026-11-11 | [solution](math/0384-the-categorical-mle-by-lagrange-multipliers) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-28 | [solution](math/0007-vector-operations) |

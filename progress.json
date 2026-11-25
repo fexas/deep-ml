@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:29:14.102Z",
+  "generated_at": "2026-11-25T00:56:59.551Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1432,6 +1432,17 @@
       "path": "math/0061-multi-armed-bandits-regret-and-ucb",
       "first_solved_at": "2026-11-24T23:29:13.642Z",
       "last_pushed_at": "2026-11-24T23:29:13.642Z"
+    },
+    "math:218": {
+      "kind": "math",
+      "id": "218",
+      "title": "Sample Averages vs Constant Step Size: Recency Weighting",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/218",
+      "path": "math/0218-sample-averages-vs-constant-step-size-recency-weighting",
+      "first_solved_at": "2026-11-25T00:56:59.113Z",
+      "last_pushed_at": "2026-11-25T00:56:59.113Z"
     }
   }
 }
