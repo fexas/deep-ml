@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**122** solved · 67 problems · 0 labs · 55 math
+**123** solved · 67 problems · 0 labs · 56 math
 
 ![Coverage](./coverage.svg)
 
@@ -98,6 +98,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [$C_p$, AIC, BIC, and Adjusted $R^2$](https://www.deep-ml.com/math-problems/93) | medium | 2026-11-01 | [solution](math/0093-c-p-aic-bic-and-adjusted-r-2) |
 | [A Finite-Class PAC Bound from Hoeffding and the Union Bound](https://www.deep-ml.com/math-problems/398) | medium | 2026-11-05 | [solution](math/0398-a-finite-class-pac-bound-from-hoeffding-and-the-union-bound) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-11-06 | [solution](math/0020-bayes-theorem) |
+| [Bellman Expectation for State and Action Values](https://www.deep-ml.com/math-problems/55) | medium | 2026-11-26 | [solution](math/0055-bellman-expectation-for-state-and-action-values) |
 | [Best Subset and Stepwise Selection](https://www.deep-ml.com/math-problems/107) | medium | 2026-11-01 | [solution](math/0107-best-subset-and-stepwise-selection) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-11-01 | [solution](math/0039-bias-variance-decomposition) |
 | [Classification Trees: Gini, Entropy and Information Gain](https://www.deep-ml.com/math-problems/113) | medium | 2026-11-15 | [solution](math/0113-classification-trees-gini-entropy-and-information-gain) |

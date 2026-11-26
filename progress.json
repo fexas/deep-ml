@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T02:49:05.702Z",
+  "generated_at": "2026-11-26T03:09:55.972Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1476,6 +1476,17 @@
       "path": "math/0054-discounted-return-and-the-geometric-series",
       "first_solved_at": "2026-11-26T02:49:05.031Z",
       "last_pushed_at": "2026-11-26T02:49:05.031Z"
+    },
+    "math:55": {
+      "kind": "math",
+      "id": "55",
+      "title": "Bellman Expectation for State and Action Values",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/55",
+      "path": "math/0055-bellman-expectation-for-state-and-action-values",
+      "first_solved_at": "2026-11-26T03:09:55.291Z",
+      "last_pushed_at": "2026-11-26T03:09:55.291Z"
     }
   }
 }
