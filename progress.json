@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:14:37.402Z",
+  "generated_at": "2026-11-26T14:51:16.511Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1572,6 +1572,19 @@
       "last_pushed_at": "2026-11-26T14:14:33.479Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:510": {
+      "kind": "problem",
+      "id": "510",
+      "title": "Markov Decision Process Simulator",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/510",
+      "path": "problems/0510-markov-decision-process-simulator",
+      "first_solved_at": "2026-11-26T14:51:15.821Z",
+      "last_pushed_at": "2026-11-26T14:51:15.821Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
