@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:09:55.972Z",
+  "generated_at": "2026-11-26T03:19:49.462Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1487,6 +1487,17 @@
       "path": "math/0055-bellman-expectation-for-state-and-action-values",
       "first_solved_at": "2026-11-26T03:09:55.291Z",
       "last_pushed_at": "2026-11-26T03:09:55.291Z"
+    },
+    "math:56": {
+      "kind": "math",
+      "id": "56",
+      "title": "Bellman Optimality and the Greedy Policy",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/56",
+      "path": "math/0056-bellman-optimality-and-the-greedy-policy",
+      "first_solved_at": "2026-11-26T03:19:48.643Z",
+      "last_pushed_at": "2026-11-26T03:19:48.643Z"
     }
   }
 }
