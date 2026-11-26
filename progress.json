@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:35:04.827Z",
+  "generated_at": "2026-11-26T13:22:40.262Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1520,6 +1520,19 @@
       "path": "math/0221-the-policy-improvement-theorem",
       "first_solved_at": "2026-11-26T09:35:03.789Z",
       "last_pushed_at": "2026-11-26T09:35:03.789Z"
+    },
+    "problem:132": {
+      "kind": "problem",
+      "id": "132",
+      "title": "Simulate Markov Chain Transitions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/132",
+      "path": "problems/0132-simulate-markov-chain-transitions",
+      "first_solved_at": "2026-11-26T13:22:37.007Z",
+      "last_pushed_at": "2026-11-26T13:22:37.007Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
