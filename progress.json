@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T03:15:39.763Z",
+  "generated_at": "2026-11-26T02:49:05.702Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1465,6 +1465,17 @@
       "path": "math/0183-thompson-sampling-beta-bernoulli-posteriors-and-exploration-by-sampling",
       "first_solved_at": "2026-11-25T03:15:38.719Z",
       "last_pushed_at": "2026-11-25T03:15:38.719Z"
+    },
+    "math:54": {
+      "kind": "math",
+      "id": "54",
+      "title": "Discounted Return and the Geometric Series",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/54",
+      "path": "math/0054-discounted-return-and-the-geometric-series",
+      "first_solved_at": "2026-11-26T02:49:05.031Z",
+      "last_pushed_at": "2026-11-26T02:49:05.031Z"
     }
   }
 }

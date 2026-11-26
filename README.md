@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**121** solved · 67 problems · 0 labs · 54 math
+**122** solved · 67 problems · 0 labs · 55 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Discounted Return and the Geometric Series](https://www.deep-ml.com/math-problems/54) | easy | 2026-11-26 | [solution](math/0054-discounted-return-and-the-geometric-series) |
 | [Joint and Conditional Entropy on the Even/Prime Numbers](https://www.deep-ml.com/math-problems/369) | easy | 2026-11-15 | [solution](math/0369-joint-and-conditional-entropy-on-the-even-prime-numbers) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-28 | [solution](math/0009-matrix-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-11-01 | [solution](math/0043-model-selection-cv-aic-and-bic) |
