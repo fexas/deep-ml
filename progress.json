@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:19:49.462Z",
+  "generated_at": "2026-11-26T08:41:48.317Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1498,6 +1498,17 @@
       "path": "math/0056-bellman-optimality-and-the-greedy-policy",
       "first_solved_at": "2026-11-26T03:19:48.643Z",
       "last_pushed_at": "2026-11-26T03:19:48.643Z"
+    },
+    "math:220": {
+      "kind": "math",
+      "id": "220",
+      "title": "Contraction of the Bellman Operators and Value-Iteration Error",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/220",
+      "path": "math/0220-contraction-of-the-bellman-operators-and-value-iteration-error",
+      "first_solved_at": "2026-11-26T08:41:47.314Z",
+      "last_pushed_at": "2026-11-26T08:41:47.314Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**124** solved · 67 problems · 0 labs · 57 math
+**125** solved · 67 problems · 0 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -104,6 +104,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-11-01 | [solution](math/0039-bias-variance-decomposition) |
 | [Classification Trees: Gini, Entropy and Information Gain](https://www.deep-ml.com/math-problems/113) | medium | 2026-11-15 | [solution](math/0113-classification-trees-gini-entropy-and-information-gain) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-11-02 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
+| [Contraction of the Bellman Operators and Value-Iteration Error](https://www.deep-ml.com/math-problems/220) | medium | 2026-11-26 | [solution](math/0220-contraction-of-the-bellman-operators-and-value-iteration-error) |
 | [Credible Intervals vs Confidence Intervals](https://www.deep-ml.com/math-problems/89) | medium | 2026-11-12 | [solution](math/0089-credible-intervals-vs-confidence-intervals) |
 | [Differential Entropy: Negative Values, Quantization Bits and the Gaussian](https://www.deep-ml.com/math-problems/370) | medium | 2026-11-07 | [solution](math/0370-differential-entropy-negative-values-quantization-bits-and-the-gaussian) |
 | [ELBO Decomposition with Gaussian KL](https://www.deep-ml.com/math-problems/136) | medium | 2026-11-02 | [solution](math/0136-elbo-decomposition-with-gaussian-kl) |
