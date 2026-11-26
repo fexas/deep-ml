@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:41:48.317Z",
+  "generated_at": "2026-11-26T09:35:04.827Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1509,6 +1509,17 @@
       "path": "math/0220-contraction-of-the-bellman-operators-and-value-iteration-error",
       "first_solved_at": "2026-11-26T08:41:47.314Z",
       "last_pushed_at": "2026-11-26T08:41:47.314Z"
+    },
+    "math:221": {
+      "kind": "math",
+      "id": "221",
+      "title": "The Policy Improvement Theorem",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/221",
+      "path": "math/0221-the-policy-improvement-theorem",
+      "first_solved_at": "2026-11-26T09:35:03.789Z",
+      "last_pushed_at": "2026-11-26T09:35:03.789Z"
     }
   }
 }
