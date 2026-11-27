@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:51:16.511Z",
+  "generated_at": "2026-11-27T07:31:45.413Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1585,6 +1585,17 @@
       "last_pushed_at": "2026-11-26T14:51:15.821Z",
       "language": "python",
       "lines": 52
+    },
+    "math:341": {
+      "kind": "math",
+      "id": "341",
+      "title": "Few Large Experts or Many Small Ones",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/341",
+      "path": "math/0341-few-large-experts-or-many-small-ones",
+      "first_solved_at": "2026-11-27T07:31:44.368Z",
+      "last_pushed_at": "2026-11-27T07:31:44.368Z"
     }
   }
 }
