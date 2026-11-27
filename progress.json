@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:31:45.413Z",
+  "generated_at": "2026-11-27T07:55:26.994Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1596,6 +1596,17 @@
       "path": "math/0341-few-large-experts-or-many-small-ones",
       "first_solved_at": "2026-11-27T07:31:44.368Z",
       "last_pushed_at": "2026-11-27T07:31:44.368Z"
+    },
+    "math:340": {
+      "kind": "math",
+      "id": "340",
+      "title": "Width versus Depth: gpt-oss-20b and Qwen3-30B-A3B",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/340",
+      "path": "math/0340-width-versus-depth-gpt-oss-20b-and-qwen3-30b-a3b",
+      "first_solved_at": "2026-11-27T07:55:25.980Z",
+      "last_pushed_at": "2026-11-27T07:55:25.980Z"
     }
   }
 }
